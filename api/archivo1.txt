@@ -1,0 +1,2 @@
+informacion archivo 1
+listo para modficar desde otras ramas
